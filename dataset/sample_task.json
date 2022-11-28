@@ -1,0 +1,28 @@
+[
+  {
+    "id": 7205,
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 30.172802135542785,
+              "y": 58.10049513160077,
+              "width": 12.152934193482508,
+              "height": 11.2804719149037,
+              "rotation": 0
+            },
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ]
+      }
+    ],
+    "predictions": [],
+    "data": {
+      "image": "/data/local-files?d=train_axial_images_jpeg95/1.2.826.0.1.3680043.10678/128.jpeg"
+    }
+  }
+]

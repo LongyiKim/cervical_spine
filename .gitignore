@@ -1,0 +1,16 @@
+checkpoint/
+.idea/
+__pycache__
+tmp/
+wandb/
+__MACOSX/
+*.csv
+.ipynb_checkpoints/
+*.pth
+*.npy
+*.npz
+*.jpeg
+*.png
+*.pt
+*.whl
+*.txt
